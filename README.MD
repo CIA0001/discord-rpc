@@ -37,7 +37,7 @@ NOTE : While most of this isn't required it's still important to edit atleast a 
   
 # How to run
   
-Open `main.py`.
+Open `start.bat`.
   
 # Troubleshooting
 
