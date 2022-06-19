@@ -6,7 +6,7 @@
 1. Go to https://discord.com/developers/applications and click the "New Application Button".
   <img src="https://cdn.discordapp.com/attachments/959323709087297586/987888732931772496/unknown.png"/>
   
-2. Name your application and save, copy your "Cliend ID" you will need this later.
+2. Name your application and save, copy your "Client ID" you will need this later.
   <img src="https://cdn.discordapp.com/attachments/959323709087297586/987891053677907979/unknown.png"/>
   
 3. Click the "Rich Presence" setting.
@@ -43,7 +43,7 @@ Open `start.bat`.
 
 If you need help create an issue at https://github.com/ReIevancy/discord-rpc/issues.
   
-If the RPC isn't working make sure Discord is open and you entered the information correctly.
+If the RPC isn't working make sure Discord is open and you have entered the information correctly.
 
 ---
 Made by @Relevant#0001 <3
