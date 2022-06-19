@@ -42,6 +42,7 @@ Open `main.py`.
 # Troubleshooting
 
 If you need help create an issue at https://github.com/ReIevancy/discord-rpc/issues.
+If the RPC isn't working make sure Discord is open and you entered the information correctly.
 
 ---
 Made by @Relevant#0001 <3
