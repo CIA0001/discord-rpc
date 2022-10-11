@@ -46,6 +46,6 @@ If you need help create an issue at https://github.com/chlIls/discord-rpc/issues
 If the RPC isn't working make sure Discord is open and you have entered the information correctly.
 
 ---
-Made by Chills#0001
+Made by CIA#0001
   
   
